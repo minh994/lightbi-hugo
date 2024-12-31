@@ -21,7 +21,7 @@ Displays information in a card format.
 ##### Output
 {{< info_cards header="lorem-ipsum" title="What is Lorem Ipsum?" content="Lorem Ipsum is simply dummy text of the printing and typesetting industry.">}}
 
-[Read this for more details and code.](https://binovarghese.com/blog/2023/06/info-card-shortcodes-for-hugo/)
+[Đọc thêmthis for more details and code.](https://binovarghese.com/blog/2023/06/info-card-shortcodes-for-hugo/)
 
 
 ### Card shortcode
@@ -54,7 +54,7 @@ descr="Lorem Ipsum is simply dummy text of the printing and typesetting industry
 
 {{< close_div >}}
 
-[Read this for more details and code.](https://binovarghese.com/blog/2023/01/card-shortcodes-for-hugo/)
+[Đọc thêmthis for more details and code.](https://binovarghese.com/blog/2023/01/card-shortcodes-for-hugo/)
 
 
 ### Details

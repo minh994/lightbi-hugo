@@ -12,15 +12,15 @@
 - id: translationsSeparator
   translation: ", "
 - id: readMore
-  translation: "Read More"
+  translation: "Đọc thêm"
 - id: olderPosts
   translation: "Older Posts"
 - id: newerPosts
   translation: "Newer Posts"
 - id: previousPost
-  translation: "Previous Post"
+  translation: "Bài viết trước"
 - id: nextPost
-  translation: "Next Post"
+  translation: "Bài tiếp theo"
 - id: readTime
   translation:
     one: "minute"

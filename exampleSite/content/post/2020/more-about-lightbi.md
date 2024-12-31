@@ -13,7 +13,7 @@ Checkout the [wiki](https://github.com/binokochumolvarghese/lightbi-hugo/wiki) p
 ## Support & Contribution
 
 - **Star 🌟 this [repository](https://github.com/binokochumolvarghese/lightbi-hugo)** to show your support!
-- **Help spread the word** about Hugo Lightbi by sharing it on social media and recommending it to your friends and colleagues.
+- **Help spĐọc thêmthe word** about Hugo Lightbi by sharing it on social media and recommending it to your friends and colleagues.
 - **Found a bug?** Report it via [GitHub Issues](https://github.com/binokochumolvarghese/lightbi-hugo/issues/new) to help us improve.
 - **Have feature ideas?** Start a conversation in [GitHub Discussions](https://github.com/binokochumolvarghese/lightbi-hugo/discussions).
 - **Got questions?** Ask away in our [GitHub Discussions](https://github.com/binokochumolvarghese/lightbi-hugo/discussions) community.

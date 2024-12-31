@@ -14,7 +14,7 @@ Below is a list of configurable parameters in the Lightbi theme, along with desc
 
 1. **`readingTime`**  
    - **Type**: Boolean (`true` or `false`)
-   - **Description**: When set to `true`, displays an estimated reading time for each post. This helps readers gauge how long it will take to read the content.
+   - **Description**: When set to `true`, displays an estimated reading time for each post. This helps readers gauge how long it will take to Đọc thêmthe content.
 
 2. **`wordCount`**  
    - **Type**: Boolean
